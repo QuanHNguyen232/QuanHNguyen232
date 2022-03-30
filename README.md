@@ -1,6 +1,6 @@
 ### Hi, I'm Quan
 
-![](https://visitor-badge.laobi.icu/badge?page_id=QuanHNguyen232.QuanHNguyen232)
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=QuanHNguyen232.QuanHNguyen232) -->
 ![Github](https://img.shields.io/github/followers/QuanHNguyen232?label=Follow&style=social)
 
 - 🌱 I’m currently learning AI/ML
