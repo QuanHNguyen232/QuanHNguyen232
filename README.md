@@ -3,11 +3,16 @@
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=QuanHNguyen232.QuanHNguyen232) -->
 ![Github](https://img.shields.io/github/followers/QuanHNguyen232?label=Follow&style=social)
 
+<!-- ############################################################ -->
+<!-- ####################### INTRODUCTION ####################### -->
+<!-- ############################################################ -->
 - 🌱 I’m currently learning AI/ML
 - 👯 I’m looking to collaborate on AI/ML projects/research
 - 😄 Pronouns: he/him/his
 
-
+<!-- ############################################################ -->
+<!-- ######################### PROJECTS ######################### -->
+<!-- ############################################################ -->
 ## Projects:
 <details>
 <summary>Click to expand</summary>
@@ -21,8 +26,13 @@ Update soon
 </details>
 
 
+<!-- ############################################################ -->
+<!-- ######################### INFO ######################### -->
+<!-- ############################################################ -->
 <!-- https://github.com/iconic/open-iconic/tree/master/svg -->
+
 ## Find me on:
+<div>
 <a href="mailto:quan.nh2002@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/quan-h-nguyen/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://quanhnguyen232.github.io/" target="_blank" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
@@ -30,25 +40,25 @@ Update soon
 <a href="https://leetcode.com/QuanHNguyen232/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 <a href="https://www.hackerrank.com/QuanHNguyen232/" target="_blank"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <a href="https://www.kaggle.com/quanhnguyen232/" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
-
+</div>
 
 ## Languages:
-
+<div>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img alt="C sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-
+</div>
 
 ## Libraries and Frameworks:
-
+<div>
 <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img alt="dot net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-
+</div>
 
 ## Tools:
-
+<div>
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
 <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
@@ -57,12 +67,12 @@ Update soon
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img alt="Replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-
+</div>
 
 ## Other:
-
+<div>
 <img alt="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> <br/>
-
+</div>
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuanHNguyen232&show_owner=true&repo=Leetcode_soln)](https://github.com/anuraghazra/github-readme-stats) -->
