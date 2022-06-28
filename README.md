@@ -31,6 +31,7 @@ Update soon
 <a href="https://www.hackerrank.com/QuanHNguyen232/" target="_blank"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <a href="https://www.kaggle.com/quanhnguyen232/" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
 
+<a target="_blank" href="https://www.kaggle.com/quanhnguyen232/">Kaggle <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
 
 
 
