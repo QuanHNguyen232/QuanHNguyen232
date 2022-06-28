@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on AI/ML projects/research
 - 😄 Pronouns: he/him/his
 
+
 <!-- ############################################################ -->
 <!-- ######################### PROJECTS ######################### -->
 <!-- ############################################################ -->
@@ -27,7 +28,7 @@ Update soon
 
 
 <!-- ############################################################ -->
-<!-- ######################### INFO ######################### -->
+<!-- ########################### INFO ########################### -->
 <!-- ############################################################ -->
 <!-- https://github.com/iconic/open-iconic/tree/master/svg -->
 
@@ -69,11 +70,11 @@ Update soon
 <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-## Other:
-<div>
-<img alt="Coursera" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /> <br/>
-</div>
 
+
+<!-- ############################################################ -->
+<!-- ######################## REPO STATS ######################## -->
+<!-- ############################################################ -->
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuanHNguyen232&show_owner=true&repo=Leetcode_soln)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -82,6 +83,7 @@ Update soon
 <!-- ############################################################ -->
 <!-- ######################## GITHUB STATS ###################### -->
 <!-- ############################################################ -->
+## Stats:
 <div align="center">
 
 [![Quan's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/QuanHNguyen232?cardType=github&theme=react)](https://git.io/awesome-stats-card)
