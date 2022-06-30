@@ -18,20 +18,36 @@
 <details>
 <summary>Click to expand</summary>
 
-<!-- [**March 2021 - Present**]:
-  * Build mobilie application with React Native which warns users of early forest fire.
-  * [Google Play Link](https://play.google.com/store/apps/details?id=vnfis.com.vn.phscr_gla&hl=en&gl=US)
-  * [Appstore Link](https://apps.apple.com/us/app/hotspot-gla/id1572979362) (will be updated in the future) -->
-Update soon
+ <details>
+  <summary markdown="span"><b>[Mar 2022]</b> CSV/XLSX to HTML (<a href="https://github.com/Gettysburg-College/csv_xlsx_to_html">Github</a>)</summary>
+  
+  * Converted data from csv/xlsx file and export as HTML string of list of students on Dean's Honor and Commendation List, grouping based on their cohort.
+ </details>
+
+ <details>
+  <summary markdown="span"><b>[Feb 2022]</b> Football player classification (<a href="https://github.com/QuanHNguyen232/NFL-Analysis">Github</a>)</summary>
+  
+  * Predicted NFL team winning rate based on team statistics from the 2021 season by using <b>Linear, Ridge, and Lasso</b> regressions. Accuracy: 68.2\%.
+  * Classified individual NFL players into their correct position based on their individual statistics using classification models: <b>KNN, SVM, Naïve Bayes, and Random Forest</b>. Accuracy: 77.1\%.
+  * Oversampled to balance data of each class in classification problem.
+ </details>
+
+<details>
+  <summary markdown="span"><b>[Nov 2021]</b> Course cluster IDS90 (<a href="https://github.com/QuanHNguyen232/Course-cluster-IDS90">Github</a>)</summary>
+  
+  * Prompt user to add income and spending each month and save data in JSON file with JavaFX for GUI.
+  * Exported data as PDF file, listing all transactions and a bar chart based on data.
+ </details>
 
 </details>
+
+
 
 
 <!-- ############################################################ -->
 <!-- ########################### INFO ########################### -->
 <!-- ############################################################ -->
 <!-- https://github.com/iconic/open-iconic/tree/master/svg -->
-
 ## Find me on:
 <div>
 <a href="mailto:quan.nh2002@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -43,6 +59,9 @@ Update soon
 <a href="https://www.kaggle.com/quanhnguyen232/" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
 </div>
 
+<!-- ############################################################ -->
+<!-- ################## PROGRAMING LANGUAGES #################### -->
+<!-- ############################################################ -->
 ## Languages:
 <div>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -52,6 +71,9 @@ Update soon
 <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
+<!-- ############################################################ -->
+<!-- #################### LIBS & FRAMEWORKS ##################### -->
+<!-- ############################################################ -->
 ## Libraries and Frameworks:
 <div>
 <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-E0E0E0?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
@@ -61,6 +83,9 @@ Update soon
 <img alt="dot net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div>
 
+<!-- ############################################################ -->
+<!-- ########################## TOOLS ########################### -->
+<!-- ############################################################ -->
 ## Tools:
 <div>
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -131,6 +156,12 @@ Here are some ideas to get you started:
 <!--[![Quan's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuanHNguyen232&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHNguyen232&theme=algolia)-->
 
+<!-- [**March 2021 - Present**]:
+  * Build mobilie application with React Native which warns users of early forest fire.
+  * [Google Play Link](https://play.google.com/store/apps/details?id=vnfis.com.vn.phscr_gla&hl=en&gl=US)
+  * [Appstore Link](https://apps.apple.com/us/app/hotspot-gla/id1572979362) (will be updated in the future) -->
+  
+  
 <!--
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px;">
