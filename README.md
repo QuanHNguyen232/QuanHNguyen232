@@ -54,14 +54,17 @@ Update soon
 
 ## Libraries and Frameworks:
 <div>
-<img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-E0E0E0?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+<img alt="Scikit Learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img alt="dot net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div>
 
 ## Tools:
 <div>
-<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-E0E0E0?style=for-the-badge&logo=jupyter&logoColor=F37626" />
 <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 <img alt="Overleaf" src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
@@ -104,11 +107,14 @@ Update soon
 <!-- 
 https://dev.to/charalambosioannou/create-a-dynamic-github-profile-readme-il5
 https://github.com/anuraghazra/github-readme-stats
-https://github.com/anuraghazra/github-readme-stats 
-https://dev.to/envoy_/150-badges-for-github-pnk
-https://shields.io/
-https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
+https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91
+
+##### Beautiful Badges #####
+Syntax: https://shields.io/
+Icon+Color: https://simpleicons.org/
+Logo: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
+Sample: https://dev.to/envoy_/150-badges-for-github-pnk
 -->
 
 <!-- ############################################################ -->
