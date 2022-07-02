@@ -54,10 +54,14 @@
 <a href="https://www.linkedin.com/in/quan-h-nguyen/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://angel.co/u/quan-nguyen-71" target="_blank"><img alt="Angel List" src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=angellist&logoColor=white"/></a>
 <a href="https://quanhnguyen232.github.io/" target="_blank" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-00CED1?style=for-the-badge&logo=githubpages&logoColor=black"/></a>
+</div>
+<div>
 <a href="https://github.com/QuanHNguyen232" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://leetcode.com/QuanHNguyen232/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 <a href="https://www.hackerrank.com/QuanHNguyen232/" target="_blank"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=000000"/></a>
 <a href="https://www.kaggle.com/quanhnguyen232/" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/></a>
+<a href="https://www.datacamp.com/profile/quannh2002/" target="_blank"><img alt="Data Camp" src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=black"/></a>
+
 </div>
 
 <!-- ############################################################ -->
@@ -79,7 +83,7 @@
 ## Libraries and Frameworks:
 <div>
 <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-E0E0E0?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-<img alt="Scikit Learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img alt="Scikit Learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=29ABE2" />
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img alt="dot net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
