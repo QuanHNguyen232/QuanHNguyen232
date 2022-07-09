@@ -1,7 +1,16 @@
-### Hi, I'm Quan
+<h1 align="center">Hi, I'm Quan</h1>
+<h3 align="center">A passionate Artificial Intelligence and Machine Learning from Viet Nam</h3>
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=QuanHNguyen232.QuanHNguyen232) -->
-![Github](https://img.shields.io/github/followers/QuanHNguyen232?label=Follow&style=social)
+![](https://img.shields.io/github/followers/QuanHNguyen232?label=Follow&style=social)
+
+
+<!-- ############################################################ -->
+<!-- ######################### TROPHIES ######################### -->
+<!-- ############################################################ -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QuanHNguyen232&row=1&no-bg=false&no-frame=false&theme=juicyfresh" alt="trophies" /></a> </p>
+
+
 
 <!-- ############################################################ -->
 <!-- ####################### INTRODUCTION ####################### -->
@@ -42,8 +51,6 @@
 </details>
 
 
-
-
 <!-- ############################################################ -->
 <!-- ########################### INFO ########################### -->
 <!-- ############################################################ -->
@@ -82,6 +89,7 @@
 <!-- ############################################################ -->
 ## Libraries and Frameworks:
 <div>
+<img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-E0E0E0?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
 <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=29ABE2" />
 <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
