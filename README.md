@@ -27,12 +27,16 @@
 <details>
 <summary>Click to expand</summary>
 
+<ol type="1">
+ <li>
  <details>
   <summary markdown="span"><b>[Mar 2022]</b> CSV/XLSX to HTML (<a href="https://github.com/Gettysburg-College/csv_xlsx_to_html">Github</a>)</summary>
   
   * Converted data from csv/xlsx file and export as HTML string of list of students on Dean's Honor and Commendation List, grouping based on their cohort.
  </details>
-
+ </li>
+ 
+ <li>
  <details>
   <summary markdown="span"><b>[Feb 2022]</b> Football player classification (<a href="https://github.com/QuanHNguyen232/NFL-Analysis">Github</a>)</summary>
   
@@ -40,15 +44,19 @@
   * Classified individual NFL players into their correct position based on their individual statistics using classification models: <b>KNN, SVM, Naïve Bayes, and Random Forest</b>. Accuracy: 77.1\%.
   * Oversampled to balance data of each class in classification problem.
  </details>
-
-<details>
+ </li>
+ 
+ <li>
+ <details>
   <summary markdown="span"><b>[Nov 2021]</b> Course cluster IDS90 (<a href="https://github.com/QuanHNguyen232/Course-cluster-IDS90">Github</a>)</summary>
   
   * Prompt user to add income and spending each month and save data in JSON file with JavaFX for GUI.
   * Exported data as PDF file, listing all transactions and a bar chart based on data.
  </details>
+ </li>
+</ol>
 
-</details>
+ </details>
 
 
 <!-- ############################################################ -->
