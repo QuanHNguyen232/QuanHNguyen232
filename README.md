@@ -69,7 +69,7 @@
 <a href="https://www.linkedin.com/in/quan-h-nguyen/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://angel.co/u/quan-nguyen-71" target="_blank"><img alt="Angel List" src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=angellist&logoColor=white"/></a>
 <a href="https://quanhnguyen232.github.io/" target="_blank" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-00CED1?style=for-the-badge&logo=githubpages&logoColor=black"/></a>
-<a href="https://www.instagram.com/quan__nguyen__/" target="_blank" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/quan__win__/" target="_blank" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 <div>
 <a href="https://github.com/QuanHNguyen232" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
