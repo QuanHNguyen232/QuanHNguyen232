@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Quan</h1>
-<h3 align="center">A student pursuing AI/ML</h3>
+<h3 align="center"><i>~ Dreams Come True ~</i></h3>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=QuanHNguyen232.QuanHNguyen232)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=QuanHNguyen232.QuanHNguyen232) -->
 ![followers](https://img.shields.io/github/followers/QuanHNguyen232?label=Follow&style=social)
 
 
