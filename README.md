@@ -142,7 +142,7 @@
 <div align="center">
 
 [![Quan's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/QuanHNguyen232?cardType=github&theme=react)](https://git.io/awesome-stats-card)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHNguyen232&theme=react&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHNguyen232&theme=react&layout=compact&langs_count=5&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QuanHNguyen232&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 </div>
 
