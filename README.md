@@ -8,7 +8,7 @@
 <!-- ############################################################ -->
 <!-- ######################### TROPHIES ######################### -->
 <!-- ############################################################ -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QuanHNguyen232&column=7&no-bg=false&no-frame=false&theme=juicyfresh" alt="trophies" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QuanHNguyen232&column=7&no-bg=false&no-frame=false&theme=oldie" alt="trophies" /></a> </p>
 
 
 
@@ -18,45 +18,6 @@
 - 🌱 I’m currently learning AI/ML
 - 👯 I’m looking to collaborate on AI/ML projects/research
 - 😄 Pronouns: he/him/his
-
-
-<!-- ############################################################ -->
-<!-- ######################### PROJECTS ######################### -->
-<!-- ############################################################ -->
-## Projects:
-<details>
-<summary>Click to expand</summary>
-
-<ol type="1">
- <li>
- <details>
-  <summary markdown="span"><b>[Mar 2022]</b> CSV/XLSX to HTML (<a href="https://github.com/Gettysburg-College/csv_xlsx_to_html">Github</a>)</summary>
-  
-  * Converted data from csv/xlsx file and export as HTML string of list of students on Dean's Honor and Commendation List, grouping based on their cohort.
- </details>
- </li>
- 
- <li>
- <details>
-  <summary markdown="span"><b>[Feb 2022]</b> Football player classification (<a href="https://github.com/QuanHNguyen232/NFL-Analysis">Github</a>)</summary>
-  
-  * Predicted NFL team winning rate based on team statistics from the 2021 season by using <b>Linear, Ridge, and Lasso</b> regressions. Accuracy: 68.2\%.
-  * Classified individual NFL players into their correct position based on their individual statistics using classification models: <b>KNN, SVM, Naïve Bayes, and Random Forest</b>. Accuracy: 77.1\%.
-  * Oversampled to balance data of each class in classification problem.
- </details>
- </li>
- 
- <li>
- <details>
-  <summary markdown="span"><b>[Nov 2021]</b> Course cluster IDS90 (<a href="https://github.com/QuanHNguyen232/Course-cluster-IDS90">Github</a>)</summary>
-  
-  * Prompt user to add income and spending each month and save data in JSON file with JavaFX for GUI.
-  * Exported data as PDF file, listing all transactions and a bar chart based on data.
- </details>
- </li>
-</ol>
-
- </details>
 
 
 <!-- ############################################################ -->
@@ -142,9 +103,15 @@
 ## Stats:
 <div align="center">
 
-[![Quan's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/QuanHNguyen232?cardType=github&theme=react)](https://git.io/awesome-stats-card)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHNguyen232&theme=react&layout=compact&langs_count=5&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Quan's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/QuanHNguyen232?cardType=github&theme=react)](https://git.io/awesome-stats-card) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHNguyen232&theme=react&layout=compact&langs_count=5&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QuanHNguyen232&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuanHNguyen232&theme=nord_bright)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuanHNguyen232&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuanHNguyen232&theme=nord_bright)
+ 
 </div>
 
 
@@ -167,7 +134,12 @@ Icon+Color: https://simpleicons.org/
 Logo: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 Sample: https://dev.to/envoy_/150-badges-for-github-pnk
 Most beautiful gray background: E0E0E0
+
+##### Stats #####
+https://github.com/vn7n24fzkq/github-profile-summary-cards
+
 -->
+
 
 <!-- ############################################################ -->
 <!-- ########################## OBSOLETE ######################## -->
