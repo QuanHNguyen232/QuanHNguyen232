@@ -4,7 +4,6 @@
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=QuanHNguyen232.QuanHNguyen232) -->
 ![followers](https://img.shields.io/github/followers/QuanHNguyen232?label=Follow&style=social)
 
-test git from glat 207
 
 <!-- ############################################################ -->
 <!-- ######################### TROPHIES ######################### -->
