@@ -8,7 +8,7 @@
 <!-- ############################################################ -->
 <!-- ######################### TROPHIES ######################### -->
 <!-- ############################################################ -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QuanHNguyen232&column=7&no-bg=false&no-frame=false&theme=oldie" alt="trophies" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QuanHNguyen232&column=-1&no-bg=true&no-frame=true&theme=oldie" alt="trophies" /></a> </p>
 
 
 
