@@ -17,7 +17,7 @@
 <!-- ############################################################ -->
 - 🌱 I’m currently learning AI/ML
 - 👯 I’m looking to collaborate on AI/ML projects/research
-- 😄 Pronouns: he/him/his
+<!-- 😄 Pronouns: he/him/his -->
 
 
 <!-- ############################################################ -->
