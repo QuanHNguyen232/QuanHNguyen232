@@ -1,22 +1,22 @@
-<h1 align="center">Hi, I'm Quan</h1>
-<h3 align="center"><i>~ Dreams Come True ~</i></h3>
-
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=QuanHNguyen232.QuanHNguyen232) -->
-![followers](https://img.shields.io/github/followers/QuanHNguyen232?label=Follow&style=social)
-
-
-<!-- ############################################################ -->
-<!-- ######################### TROPHIES ######################### -->
-<!-- ############################################################ -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QuanHNguyen232&column=-1&no-bg=true&no-frame=true&theme=oldie" alt="trophies" /></a> </p>
-
-
+<h1 align="center"><i>:shamrock: Dreams Come True :shamrock:</i></h1>
 
 <!-- ############################################################ -->
 <!-- ####################### INTRODUCTION ####################### -->
 <!-- ############################################################ -->
-- 🌱 I’m currently learning AI/ML
-- 👯 I’m looking to collaborate on AI/ML projects/research
+<!-- https://gist.github.com/rxaviers/7360908 -->
+<!-- https://github.com/ikatyang/emoji-cheat-sheet -->
+
+## Hi, I'm Quan
+<img align="right" alt="" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hoZ3VpZGlzdHd5dDRzZjNuOXU5Z2tkeTVrNDg5YW8xYjl4MTc5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VM1fcpu2bKs1e2Kdbj/giphy.gif" />
+
+- :mortar_board: MS in CS at UMD
+- :man_student: BS in CS at Gettysburg
+- :computer: MLE intern @ VCCorp
+- :memo: ML research intern @ MSU
+- :book: ML research intern @ Purdue
+- :seedling: Learning AI/ML and MLOps (maybe web as well)
+- :people_holding_hands: Looking to collaborate on AI/ML projects
+
 <!-- 😄 Pronouns: he/him/his -->
 
 
@@ -129,6 +129,9 @@
 <!-- ############################################################ -->
 ## Stats:
 <div align="center">
+
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QuanHNguyen232&column=-1&no-bg=true&no-frame=true&theme=oldie" alt="trophies" /></a> </p> -->
+![](https://github-profile-trophy.vercel.app/?username=QuanHNguyen232&column=-1&no-bg=true&no-frame=true&theme=oldie)
 
 <!-- [![Quan's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/QuanHNguyen232?cardType=github&theme=react)](https://git.io/awesome-stats-card) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHNguyen232&theme=react&layout=compact&langs_count=5&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
