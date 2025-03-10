@@ -9,13 +9,16 @@
 ## Hi, I'm Quan
 <img align="right" alt="" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hoZ3VpZGlzdHd5dDRzZjNuOXU5Z2tkeTVrNDg5YW8xYjl4MTc5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VM1fcpu2bKs1e2Kdbj/giphy.gif" />
 
-- :mortar_board: MS in CS at UMD
-- :man_student: BS in CS at Gettysburg
-- :computer: MLE intern @ VCCorp
-- :memo: ML research intern @ MSU
-- :book: ML research intern @ Purdue
-- :seedling: Learning AI/ML and MLOps (maybe web as well)
-- :people_holding_hands: Looking to collaborate on AI/ML projects
+- Education:
+  - :book: MS in CS at UMD, College Park
+  - :mortar_board: BS in CS at Gettysburg
+- Experience: 
+  - :desktop_computer: MLE intern @ VCCorp
+  - :memo: ML research intern @ MSU
+  - :memo: ML research intern @ Purdue
+- Learning:
+  - :seedling: Learning AI/ML and MLOps (maybe web as well)
+  - :people_holding_hands: Looking to collaborate on AI/ML projects
 
 <!-- 😄 Pronouns: he/him/his -->
 
