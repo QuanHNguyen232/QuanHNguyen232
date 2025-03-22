@@ -13,6 +13,8 @@
   - :book: MS in CS at UMD, College Park
   - :mortar_board: BS in CS at Gettysburg
 - Experience: 
+  - :desktop_computer: MLE intern (incoming) @ bigtech
+  - :desktop_computer: MLE intern @ startup
   - :desktop_computer: MLE intern @ VCCorp
   - :memo: ML research intern @ MSU
   - :memo: ML research intern @ Purdue
