@@ -6,7 +6,7 @@
 <!-- https://gist.github.com/rxaviers/7360908 -->
 <!-- https://github.com/ikatyang/emoji-cheat-sheet -->
 
-## Hi, I'm Quan
+## Who Am I:
 <img align="right" alt="" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hoZ3VpZGlzdHd5dDRzZjNuOXU5Z2tkeTVrNDg5YW8xYjl4MTc5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VM1fcpu2bKs1e2Kdbj/giphy.gif" />
 
 - Education:
@@ -31,13 +31,14 @@
 <!-- ########################### INFO ########################### -->
 <!-- ############################################################ -->
 <!-- https://github.com/iconic/open-iconic/tree/master/svg -->
-## Find me on:
-<div>
-<a href="mailto:quanhnguyen232@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/quanhnguyen232/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<!-- ## Find me on: -->
+<!-- <div> -->
+<!-- <a href="mailto:quanhnguyen232@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
+<!-- <a href="https://www.linkedin.com/in/quanhnguyen232/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 <!-- <a href="https://github.com/QuanHNguyen232" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> -->
 <!-- <a href="https://leetcode.com/QuanHNguyen232/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a> -->
-</div>
+<!-- </div> -->
 
 <!-- ############################################################ -->
 <!-- ################## SKILLS #################### -->
