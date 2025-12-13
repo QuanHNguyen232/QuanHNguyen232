@@ -73,8 +73,11 @@
   <br>
  <img alt="Ray" src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white">
  <img alt="vLLM" src="https://img.shields.io/badge/vLLM-E0E0E0?style=for-the-badge&logo=vLLM&logoColor=white">
+ <img alt="Ollama" src="https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+ <img alt="DeepSpeed" src="https://img.shields.io/badge/DeepSpeed-F17F00?style=for-the-badge&logo=Deepspeed&logoColor=white">
  <img alt="weights and biases" src="https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
+ <img alt="MLflow" src="https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </div>
 
 ### Web dev:
@@ -107,9 +110,12 @@
   <br>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
   <img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white">
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+  <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
 </div>
 
 ### Dev Tools:
@@ -117,7 +123,7 @@
  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
  <img alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
- <img alt="Astral" src="https://img.shields.io/badge/Astral-261230?style=for-the-badge&logo=Astral&logoColor=white" />
+ <img alt="uv Astral" src="https://img.shields.io/badge/UV-DE5FE9?style=for-the-badge&logo=uv&logoColor=white" />
  <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
  <img alt="NVM" src="https://img.shields.io/badge/nvm-F4DD4B?style=for-the-badge&logo=nvm&logoColor=black" />
  <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
