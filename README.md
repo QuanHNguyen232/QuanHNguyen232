@@ -1,4 +1,4 @@
-<h1 align="center"><i>:shamrock: Dreams Come True :shamrock:</i></h1>
+<h1 align="center"><i>:four_leaf_clover: Dreams Come True :four_leaf_clover:</i></h1>
 
 <!-- ############################################################ -->
 <!-- ####################### INTRODUCTION ####################### -->
@@ -36,6 +36,7 @@
 <div>
   <a href="mailto:quanhnguyen232@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/quanhnguyen232/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://quanhnguyen232.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logoColor=white"/></a>
 <!-- <a href="https://github.com/QuanHNguyen232" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> -->
 <!-- <a href="https://leetcode.com/QuanHNguyen232/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a> -->
 </div>
@@ -80,13 +81,14 @@
  <img alt="MLflow" src="https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 </div>
 
+<!-- 
 ### Web dev:
 <div>
  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
  <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</div>
+</div> -->
 
 ### MLOps & Data:
 <div>
@@ -104,9 +106,9 @@
 
 ### Cloud/DevOps:
 <div>
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white">
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
   <br>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
@@ -120,7 +122,6 @@
 
 ### Dev Tools:
 <div>
- <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
  <img alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
  <img alt="uv Astral" src="https://img.shields.io/badge/UV-DE5FE9?style=for-the-badge&logo=uv&logoColor=white" />
@@ -128,6 +129,7 @@
  <img alt="NVM" src="https://img.shields.io/badge/nvm-F4DD4B?style=for-the-badge&logo=nvm&logoColor=black" />
  <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white" />
+ <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
  <div>
  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
