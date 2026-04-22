@@ -34,11 +34,11 @@
 
 ## Find me on:
 <div>
-  <a href="mailto:quanhnguyen232@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/quanhnguyen232/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://quanhnguyen232.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logoColor=white"/></a>
-<!-- <a href="https://github.com/QuanHNguyen232" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> -->
-<!-- <a href="https://leetcode.com/QuanHNguyen232/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a> -->
+  <a href="mailto:quanhn232@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/quanhn232/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://quanhn232.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logoColor=white"/></a>
+<!-- <a href="https://github.com/quanhn232" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> -->
+<!-- <a href="https://leetcode.com/quanhn232/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a> -->
 </div>
 
 <!-- ############################################################ -->
@@ -148,7 +148,7 @@
 <!-- ######################## REPO STATS ######################## -->
 <!-- ############################################################ -->
 <!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=QuanHNguyen232&show_owner=true&repo=Leetcode_soln)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quanhn232&show_owner=true&repo=Leetcode_soln)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
@@ -158,17 +158,17 @@
 ## Stats:
 <div align="center">
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QuanHNguyen232&column=-1&no-bg=true&no-frame=true&theme=oldie" alt="trophies" /></a> </p> -->
-![](https://github-profile-trophy.vercel.app/?username=QuanHNguyen232&column=-1&no-bg=true&no-frame=true&theme=oldie)
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quanhn232&column=-1&no-bg=true&no-frame=true&theme=oldie" alt="trophies" /></a> </p> -->
+![](https://github-profile-trophy.vercel.app/?username=quanhn232&column=-1&no-bg=true&no-frame=true&theme=oldie)
 
-<!-- [![Quan's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/QuanHNguyen232?cardType=github&theme=react)](https://git.io/awesome-stats-card) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanHNguyen232&theme=react&layout=compact&langs_count=5&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QuanHNguyen232&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+<!-- [![Quan's GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/quanhn232?cardType=github&theme=react)](https://git.io/awesome-stats-card) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quanhn232&theme=react&layout=compact&langs_count=5&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=quanhn232&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuanHNguyen232&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quanhn232&theme=nord_bright)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=QuanHNguyen232&theme=nord_bright)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QuanHNguyen232&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=quanhn232&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quanhn232&theme=nord_bright)
  
 </div>
 
